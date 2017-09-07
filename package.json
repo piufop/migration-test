@@ -1,0 +1,27 @@
+{
+  "name": "migration-test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piufop/migration-test.git"
+  },
+  "keywords": [
+    "migration",
+    "contentful"
+  ],
+  "author": "Me",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/piufop/migration-test/issues"
+  },
+  "homepage": "https://github.com/piufop/migration-test#readme",
+  "dependencies": {
+    "contentful-management": "^3.12.0"
+  }
+}
